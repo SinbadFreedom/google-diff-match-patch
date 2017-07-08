@@ -2191,3 +2191,6 @@ this['diff_match_patch'] = diff_match_patch;
 this['DIFF_DELETE'] = DIFF_DELETE;
 this['DIFF_INSERT'] = DIFF_INSERT;
 this['DIFF_EQUAL'] = DIFF_EQUAL;
+
+/** add by sinbad 20170708*/
+module.exports = diff_match_patch;
